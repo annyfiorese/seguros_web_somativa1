@@ -1,0 +1,2 @@
+### Teste do ping
+GET http://localhost:8080/sisrh/rest/sistema/ping
